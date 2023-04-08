@@ -7,6 +7,7 @@ import "./app.css";
 
 export function App() {
   const [count, setCount] = useState(0);
+  console.log("bob is weird");
 
   return (
     <>
